@@ -2,7 +2,7 @@
 
 My name is Artur. 
 
-A passionate software developer with **7+ years** of working experience specializing in **React**, **Next.js**, **TS** and **Node.js**.    
+I'm a passionate software developer with **7+ years** of working experience specializing in **React**, **Next.js**, **TS** and **Node.js**.    
 Committed to continuous learning and staying up-to-date with the latest technologies.
 
 My resume: https://arturpazyniuk.com/cv.pdf
