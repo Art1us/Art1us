@@ -1,7 +1,13 @@
 # Hi there! 👋
 
-My name is Artur. I am a passionate software developer with **6 years** of experience.   
-Check out my projects below.
+My name is Artur. 
+
+A passionate software developer with **7+ years** of working experience specializing in **React**, **Next.js**, **TS** and **Node.js**.    
+Committed to continuous learning and staying up-to-date with the latest technologies.
+
+My resume: https://arturpazyniuk.com/cv.pdf
+
+Some of my **open source** projects:
   
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | **Project** | **Technologies** |
@@ -11,6 +17,4 @@ Check out my projects below.
 | [AstraBlog](https://github.com/Art1us/Astra-Blog) |[![](https://svgshare.com/i/1317.svg)]() [![](https://svgshare.com/i/1308.svg)]() [![](https://svgshare.com/i/1318.svg)]() [![](https://svgshare.com/i/141L.svg)]() [![](https://svgshare.com/i/143S.svg)]() [![](https://svgshare.com/i/130n.svg)]() [![](https://svgshare.com/i/130W.svg)]() [![](https://svgshare.com/i/131Q.svg)]() [![](https://svgshare.com/i/131A.svg)]() [![](https://svgshare.com/i/141A.svg)]() [![](https://svgshare.com/i/142R.svg)]() [![](https://svgshare.com/i/130m.svg)]()|
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-Feel free to reach out.
-
-Thank You
+Thank you and have a nice day 🙂
